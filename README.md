@@ -12,7 +12,7 @@
 
 <hr/>
 
-<p align="center">I am a Software Developer from Ukraine</p>
+<p align="center">I am a Software Engineer from Ukraine</p>
 <p align="center">Here you can see my developments!</p>
 
 <div align="center"> 
